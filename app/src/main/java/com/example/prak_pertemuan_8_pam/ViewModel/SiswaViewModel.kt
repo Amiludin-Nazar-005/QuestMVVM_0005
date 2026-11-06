@@ -1,7 +1,7 @@
 package com.example.prak_pertemuan_8_pam.ViewModel
 
 import androidx.lifecycle.ViewModel
-import androidx.room.util.copy
+
 import com.example.prak_pertemuan_8_pam.Model.Siswa
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
